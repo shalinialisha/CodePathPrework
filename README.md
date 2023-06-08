@@ -18,7 +18,8 @@ The following **required** functionality is completed:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![](https://imgur.com/a/7dY4jpl.gif)
+
+![giphy](https://github.com/shalinialisha/codepath-prework/assets/123770923/5de0f355-00fd-4857-b0ca-ddeecbcd6777)
 <img src='https://imgur.com/a/7dY4jpl.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [Kap](https://getkap.co/) for macOS
